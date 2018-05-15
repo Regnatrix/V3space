@@ -1,0 +1,21 @@
+Skilaverkefni gengur út á að gera einhvers konar „einfaldaða“ útgáfu af "Space Invaders" leik.
+Spilarinn hefur til umráða eitt geimskip sem getur skotið óvini( loftsteinar, geimskip, hvað sem er ) í tætlur.
+I:
+Bakgrunnur leiksins er einhver góð mynd úr geimnum. Geimskip og óvinir eru líka túlkuð með grafík.
+Leikurinn spilast þannig að tölvan smíðar í sífellu x-marga óvini og þeir fara niður skjáinn. Spilarinn getur
+hreyft skip sitt(til hægti og vinstri) og sent eldflaugar af stað(missiles) með því að smella á spacepar.
+Hitti missile óvin þá fær spilarinn stig en eldflaugin og óvinurinn hverfa úr leiknum.
+Skip spilarans er alltaf neðst á skjánum(hreyfing í X-plani) og er með "wrap around" fídus.
+Skjárinn tæmist smátt og smátt þar sem fjöldi óvina er ekki endurnýjaður. Þegar engin óvinur er eftir
+á skjánum er leikurinn búinn.
+II:
+Í viðbót við lið eitt þá getur skipið nú ferðast upp og niður (örvatakkarnir).
+III:
+Í viðbót við aðrar kröfur getur geimskipið nú skotið í fjórar áttir, allt eftir því hvernig það
+snýr(upp,niður,hægri,vinstri) Tölvan býr nú til tvær eða fleiri gerðir af óvinum sem fara niður skjáinn.
+Spilarinn fær fleiri stig fyrir að hitta "nýju" óvinina.
+IV:
+Í viðbót við aðrar kröfur þá fara óvinirnir(hóparnir) mishratt niður skjáinn.
+V:
+„Viðeigandi hljóð“ heyrist þegar eldflaugum er skotið og líka þegar sprenging verður. Stigatafla er sýnileg en
+ekki truflandi.
